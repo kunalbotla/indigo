@@ -1,9 +1,9 @@
 # main text of home
 name: Kunal Botla
-bio: Student. Swift developer. LexDebate (PF). General tech enthusiast.
+bio: Student. Swift developer. LexDebate (PF).
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Kunal Botla's website.
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,13 +16,13 @@ resume: true
 resume-external: true
 resume-url: https://cv.kunalbotla.com
 
-url: https://kunalbotla.com/indigo
+url: https://new.kunalbotla.com/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+ analytics-google: 'UA-160185874-2'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
